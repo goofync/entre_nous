@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:60,Arte Ⓖ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0,C8 Ⓓ
 https://www.dailymotion.com/video/x5gv5rr
