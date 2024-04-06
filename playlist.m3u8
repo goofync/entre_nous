@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:0,C8 Ⓓ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LXhXF8l.png",C8 Ⓓ
 https://www.dailymotion.com/video/x5gv5rr
-#EXTINF:0,Cribs Maisons De Star (720p)
+#EXTINF:0,Cribs Maisons De Star
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5043513f-eb20-46fd-8286-9e9ba240e6f9
-#EXTINF:0,Juste pour Rire (720p)
+#EXTINF:0,Juste pour Rire
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
-#EXTINF:0,Pluto TV Animaux (720p)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Animaux
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
-#EXTINF:0,Pluto TV Ciné (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Ciné
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Ciné Rétro (720p)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Rétro
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Ciné+ (720p) [Not 24/7]
+#EXTINF:-1tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Ciné+
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89a930-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7d7d33d-5784-4dee-a799-d09bd30b065a
-#EXTINF:0,Pluto TV Cuisine (720p)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Cuisine
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Dossiers FBI (720p)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV FBI
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad922b10b000753bc37/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Euronews (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Euronews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Extrême (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Extrême
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Les Nouveaux Detectives (720p)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",PTV Nouveaux Detectives
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Homicide la chaîne du fait divers
+#EXTINF:0,Homicide
 https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
 #EXTINF:0,Le Meilleur d'Arthur
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
@@ -33,25 +33,25 @@ https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:0,Les Z'Amours
 https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:0,Motus La Chaîne
+#EXTINF:0,Motus
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:0,MyTime Movie Network (1080p)
+#EXTINF:0,MyTime Movie Network
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,MyZen Wellbeing TV (French)
+#EXTINF:0,MyZen
 https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
-#EXTINF:0,Qui Veut Gagner Des Millions La Chaîne
+#EXTINF:0,Qui Veut Gagner Des Millions
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:0,Rakuten Guardian (720p) (EN)
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Guardian
 https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten Spotlight France (720p)
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Spotlight
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten TV Films Action (720p)
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Rak Action
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten TV Films Français (720p)
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Fr
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten TV Films Thriller (720p)
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten TV Top Films (720p)
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Top
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,The Design Network Europe
 https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8
