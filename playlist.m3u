@@ -45,19 +45,25 @@ https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/
 https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Spotlight
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Rak Action
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Action
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Action 2
+https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Fr
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Top
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,The Design Network Europe
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Comedy
+https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg",Raku Family
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Design Network Eu
 https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,Vogue Europe
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
-#EXTINF:0,Y'a Que La Vérité Qui Compte La Chaîne
+#EXTINF:0,Y'a Que La Vérité Qui Compte
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 #EXTINF:0,BBC Doctor Who
 https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
@@ -65,12 +71,6 @@ https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0,Mytime Movies (1080p)
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0,Rakuten Action Movies (720p)
-https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten Comedy Movies (720p)
-https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten Family (720p)
-https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Wildside TV (720p)
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,M6 (1080p) [a tester]
@@ -79,9 +79,9 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:0,CNews Ⓓ
 https://www.dailymotion.com/video/x3b68jn
-#EXTINF:0,L'Équipe ⒹⒼ
+#EXTINF:0, L'Équipe ⒹⒼ
 https://www.dailymotion.com/video/x2lefik
-#EXTINF:0, like Gecko) Chrome/108.0.0.0 Safari/537.36" - BFM TV (1080p)
+#EXTINF:0, BFM TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:0,Gulli
@@ -144,9 +144,9 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
 #EXTINF:30,TV3V (720p)
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:60,TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+#EXTINF:60,TV5Monde [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:60,TV5Monde Info (1080p) [Geo-blocked]
+#EXTINF:60,TV5Monde Info [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:30,TV7 Colmar (576p)
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
